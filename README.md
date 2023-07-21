@@ -13,11 +13,11 @@
 ## Installation
 
 ```bash
-git clone https://github.com/kiron0/08-Assignment-lucky-one-kiron0.git
+git clone https://github.com/developerkhaled1/choose-lucky-one.git
 ```
 
 ```bash
-cd 08-Assignment-lucky-one-kiron0
+cd choose-lucky-one
 ```
 
 ```bash
